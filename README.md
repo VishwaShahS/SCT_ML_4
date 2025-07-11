@@ -25,12 +25,6 @@ pip install -r requirements.txt
 - `src/model.py`: Python script with model code
 - `dataset/`: Place extracted dataset here
 
-## 👀 Results
-Model accuracy: *Coming soon...*
 
-## 🧑‍💻 Author
-Vishwa Shah
 
 ---
-
-Give a ⭐ if you like it 😄
